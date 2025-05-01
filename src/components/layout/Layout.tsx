@@ -269,9 +269,9 @@ const Layout: React.FC<LayoutProps> = ({ children }) => {
                       <path 
                         d="M10 4L6 8L10 12" 
                         stroke="#948883" 
-                        stroke-width="2" 
-                        stroke-linecap="round" 
-                        stroke-linejoin="round"
+                        strokeWidth="2" 
+                        strokeLinecap="round" 
+                        strokeLinejoin="round"
                       />
                     </svg>
                     <div style={{ 
